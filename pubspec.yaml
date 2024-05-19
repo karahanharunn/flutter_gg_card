@@ -7,8 +7,10 @@ environment:
   sdk: '>=3.2.6 <4.0.0'
 
 dependencies:
+  flip_card: ^0.7.0
   flutter:
     sdk: flutter
+  flutter_gg: ^0.0.3
 
 dev_dependencies:
   flutter_test:
